@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CatCollider
+  - Grounded
+  - SlopeUp
+  - SlopeDown
+  - Grind
+  - LayerUp
+  - Parallaxer
+  - Vehicle
+  - credito
+  - Warning
+  - ludboss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - lane 0
+  - lane 1
+  - lane 2
+  - lane 3
+  - lane 4
+  - lane 5
+  - lane 6
+  - 
+  - 
+  - 
+  - TextPopup
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: lane 5
+    uniqueID: 1152865243
+    locked: 0
+  - name: lane 4
+    uniqueID: 4125191245
+    locked: 0
+  - name: lane 3
+    uniqueID: 3648107897
+    locked: 0
+  - name: lane 2
+    uniqueID: 1705101897
+    locked: 0
+  - name: lane 1
+    uniqueID: 4069492935
+    locked: 0
+  - name: lane 0
+    uniqueID: 4038498245
+    locked: 0
